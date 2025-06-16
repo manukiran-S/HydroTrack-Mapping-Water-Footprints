@@ -1,0 +1,151 @@
+ID,Category,Water_Usage_Liters,Type
+1,Medical,813,Food processing
+2,Medical,49132,Textile manufacturing
+3,Medical,35654,Dairy industry
+4,Food,30634,Beverage production
+5,Utilities,42833,Beverage production
+6,Utilities,24144,Wastewater treatment
+7,Medical,10830,Metal extraction
+8,Domestic,6814,Beverage production
+9,Utilities,38852,Irrigation for crops
+10,Food,29548,Beverage production
+11,Food,40273,Hospital sterilization
+12,Utilities,15634,Textile manufacturing
+13,Utilities,46186,Power plant cooling
+14,Medical,41305,Irrigation for crops
+15,Food,42736,Wastewater treatment
+16,Medical,36188,Household drinking water
+17,Utilities,5122,Dairy industry
+18,Food,27147,Residential cleaning
+19,Domestic,12847,Irrigation for crops
+20,Medical,45134,Wastewater treatment
+21,Medical,39127,Household drinking water
+22,Mining,38466,Wastewater treatment
+23,Domestic,10531,Textile manufacturing
+24,Food,40687,Pharmaceutical manufacturing
+25,Mining,29545,Wastewater treatment
+26,Mining,4547,Food processing
+27,Medical,18654,Residential cleaning
+28,Food,26222,Textile manufacturing
+29,Utilities,9916,Hospital sterilization
+30,Mining,25631,Metal extraction
+31,Utilities,2702,Bottled water production
+32,Food,42720,Food processing
+33,Mining,25424,Dairy industry
+34,Domestic,13040,Irrigation for crops
+35,Medical,6818,Beverage production
+36,Food,2680,Household drinking water
+37,Food,30676,Food processing
+38,Food,20544,Residential cleaning
+39,Domestic,22476,Irrigation for crops
+40,Medical,1263,Dairy industry
+41,Domestic,39131,Household drinking water
+42,Utilities,5836,Textile manufacturing
+43,Utilities,8718,Wastewater treatment
+44,Mining,34993,Bottled water production
+45,Domestic,12586,Hospital sterilization
+46,Domestic,42846,Household drinking water
+47,Domestic,27890,Bottled water production
+48,Medical,12508,Power plant cooling
+49,Mining,37769,Bottled water production
+50,Medical,49446,Residential cleaning
+51,Utilities,42434,Cooling for mining equipment
+52,Utilities,33427,Pharmaceutical manufacturing
+53,Medical,34168,Bottled water production
+54,Food,37610,Household drinking water
+55,Domestic,20478,Irrigation for crops
+56,Food,34034,Textile manufacturing
+57,Medical,33232,Power plant cooling
+58,Medical,5071,Textile manufacturing
+59,Food,34319,Beverage production
+60,Utilities,47918,Wastewater treatment
+61,Mining,29795,Food processing
+62,Domestic,39088,Pharmaceutical manufacturing
+63,Food,14124,Cooling for mining equipment
+64,Domestic,16059,Cooling for mining equipment
+65,Mining,32389,Dairy industry
+66,Medical,38411,Residential cleaning
+67,Domestic,42991,Textile manufacturing
+68,Domestic,4651,Metal extraction
+69,Medical,24117,Pharmaceutical manufacturing
+70,Domestic,38027,Food processing
+71,Food,13000,Metal extraction
+72,Mining,26401,Residential cleaning
+73,Food,20032,Power plant cooling
+74,Domestic,18969,Hospital sterilization
+75,Mining,4539,Residential cleaning
+76,Mining,30937,Public water supply
+77,Mining,1953,Public water supply
+78,Medical,27262,Bottled water production
+79,Domestic,12943,Beverage production
+80,Medical,25075,Cooling for mining equipment
+81,Domestic,28362,Public water supply
+82,Mining,12467,Pharmaceutical manufacturing
+83,Food,2102,Dairy industry
+84,Utilities,4893,Irrigation for crops
+85,Food,36512,Household drinking water
+86,Medical,5604,Pharmaceutical manufacturing
+87,Medical,30787,Dairy industry
+88,Utilities,40760,Dairy industry
+89,Medical,31931,Irrigation for crops
+90,Domestic,23142,Bottled water production
+91,Medical,31061,Household drinking water
+92,Mining,12227,Public water supply
+93,Mining,36011,Wastewater treatment
+94,Mining,39836,Textile manufacturing
+95,Food,27523,Food processing
+96,Food,36961,Metal extraction
+97,Utilities,38347,Power plant cooling
+98,Utilities,22400,Wastewater treatment
+99,Food,23646,Hospital sterilization
+100,Food,31528,Dairy industry
+101,Utilities,5919,Power plant cooling
+102,Utilities,27133,Metal extraction
+103,Utilities,38738,Food processing
+104,Domestic,5117,Textile manufacturing
+105,Domestic,24673,Wastewater treatment
+106,Food,21213,Irrigation for crops
+107,Utilities,26896,Power plant cooling
+108,Mining,31737,Hospital sterilization
+109,Domestic,47217,Metal extraction
+110,Food,7396,Food processing
+111,Medical,41871,Textile manufacturing
+112,Food,43925,Cooling for mining equipment
+113,Medical,6630,Wastewater treatment
+114,Domestic,43896,Irrigation for crops
+115,Domestic,36903,Pharmaceutical manufacturing
+116,Medical,23855,Hospital sterilization
+117,Utilities,37199,Textile manufacturing
+118,Medical,21914,Metal extraction
+119,Food,4972,Public water supply
+120,Utilities,40300,Household drinking water
+121,Mining,36377,Pharmaceutical manufacturing
+122,Domestic,43882,Dairy industry
+123,Utilities,42491,Metal extraction
+124,Food,2510,Beverage production
+125,Mining,22672,Metal extraction
+126,Domestic,42323,Bottled water production
+127,Mining,23686,Textile manufacturing
+128,Domestic,13482,Pharmaceutical manufacturing
+129,Domestic,20683,Dairy industry
+130,Mining,5645,Dairy industry
+131,Mining,8734,Dairy industry
+132,Food,19468,Textile manufacturing
+133,Domestic,31186,Textile manufacturing
+134,Food,45893,Food processing
+135,Mining,40000,Textile manufacturing
+136,Mining,43214,Beverage production
+137,Mining,40534,Beverage production
+138,Domestic,26584,Dairy industry
+139,Mining,32123,Metal extraction
+140,Utilities,4977,Food processing
+141,Medical,8058,Beverage production
+142,Utilities,18804,Irrigation for crops
+143,Medical,18884,Power plant cooling
+144,Domestic,25661,Cooling for mining equipment
+145,Domestic,49629,Metal extraction
+146,Mining,35771,Residential cleaning
+147,Food,39857,Public water supply
+148,Medical,9064,Wastewater treatment
+149,Mining,41584,Bottled water production
+150,Food,46433,Irrigation for crops
